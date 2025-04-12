@@ -1,0 +1,13 @@
+= Systemkrav
+
+== Must Have
+- UI genereret i V0 skal bevares og benyttes uændret
+- Flow-visning og agentoversigt skal vises baseret på mockdata
+- Sidebar og Header skal vises globalt
+
+== Should Have
+- Flow-kort skal kunne udvides med detaljer
+- YAML skal kunne vises for hvert flow
+
+== Won't Have
+- Brugerstyring eller ekstern API-integration i denne fase

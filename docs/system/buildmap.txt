@@ -1,0 +1,1 @@
+Dette system bygger på en AI-drevet arkitektur hvor en bruger (uden teknisk viden) kan beskrive et ønske eller en idé. Systemet tolker dette gennem en AI kaldet Baldr, som oversætter til tekniske flows, koordineret af Flow Builder, og udført af specialiserede AI-agenter.
